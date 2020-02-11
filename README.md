@@ -1,5 +1,6 @@
 # Project Overview
 This project is the last project of the Udacity Front End Web Development Nanodegree. The Development Strategy consist of four stages. Which are :
+
 1- Get a MapBox API key.
 
 2- Convert the provided site to use a responsive design.
